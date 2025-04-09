@@ -24,7 +24,7 @@ PL/SQL
 SQL
 CSS
 
-📷 Screenshot
+📷 Screenshots
 ![image](https://github.com/user-attachments/assets/935720bb-9fee-4bdc-9950-e3d1ab0ed188)
 ![image](https://github.com/user-attachments/assets/779761bc-fe79-40c5-9d31-876634db2959)
 ![image](https://github.com/user-attachments/assets/a6092b94-6ecd-4fc3-83a3-339a7fb7c7cc)
