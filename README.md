@@ -19,6 +19,7 @@ The application was built using Oracle APEX and PL/SQL. It allows adoption candi
 🖥️ Clean and intuitive interface designed for everyday use by the NGO staff.
 
 🎯 Purpose
+
 The main goal of this project is to combine technology and social responsibility, streamlining the adoption process while ensuring transparency and proper evaluation of each candidate.
 
 🚀 Technologies Used
