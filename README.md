@@ -1,7 +1,9 @@
 🐾 Pet Adoption Management System – Oracle APEX + PL/SQL
+
 This is a social impact project developed for a university assignment, aimed at supporting an animal welfare NGO in managing the pet adoption process more efficiently.
 
 💡 About the Project
+
 The application was built using Oracle APEX and PL/SQL. It allows adoption candidates to fill out a public form, while giving NGO volunteers secure access to review and manage applications.
 
 🔐 Key Features
