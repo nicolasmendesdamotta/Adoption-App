@@ -19,9 +19,13 @@ The application was built using Oracle APEX and PL/SQL. It allows adoption candi
 The main goal of this project is to combine technology and social responsibility, streamlining the adoption process while ensuring transparency and proper evaluation of each candidate.
 
 🚀 Technologies Used
+
 Oracle APEX
+
 PL/SQL
+
 SQL
+
 CSS
 
 📷 Screenshots
