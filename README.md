@@ -5,6 +5,7 @@ This is a social impact project developed for a university assignment, aimed at 
 The application was built using Oracle APEX and PL/SQL. It allows adoption candidates to fill out a public form, while giving NGO volunteers secure access to review and manage applications.
 
 🔐 Key Features
+
 📄 Public adoption form for applicants;
 
 🔑 Restricted access for volunteers via login and password;
@@ -36,4 +37,5 @@ CSS
 
 
 👤 Author
+
 Developed by Nicolas Mendes da Motta as part of a Software Engineering course project.
